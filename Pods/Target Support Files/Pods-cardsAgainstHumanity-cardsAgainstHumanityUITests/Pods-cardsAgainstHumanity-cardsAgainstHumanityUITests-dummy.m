@@ -1,0 +1,5 @@
+#import <Foundation/Foundation.h>
+@interface PodsDummy_Pods_cardsAgainstHumanity_cardsAgainstHumanityUITests : NSObject
+@end
+@implementation PodsDummy_Pods_cardsAgainstHumanity_cardsAgainstHumanityUITests
+@end

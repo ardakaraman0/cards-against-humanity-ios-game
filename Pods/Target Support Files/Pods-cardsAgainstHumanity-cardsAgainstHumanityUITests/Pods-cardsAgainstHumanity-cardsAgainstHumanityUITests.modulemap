@@ -1,0 +1,6 @@
+framework module Pods_cardsAgainstHumanity_cardsAgainstHumanityUITests {
+  umbrella header "Pods-cardsAgainstHumanity-cardsAgainstHumanityUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
